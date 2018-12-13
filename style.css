@@ -1,0 +1,51 @@
+body{
+  background-color:black;
+}
+#numbers{
+  /* width: 900px; */
+  text-align: center;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.box{
+  position: relative;
+  display: inline;
+  margin-left: 40px;
+}
+
+#container1{
+  margin: 20px auto;
+  width: 650px;
+  height: 650px;
+  background-color: darkgrey;
+  padding: 2px;
+  position: relative;
+}
+
+#container2{
+  margin: 20px auto;
+  width: 1156px;
+  height: 650px;
+  background-color: black;
+  padding: 2px;
+  position: relative;
+}
+
+#container5{
+  margin: 20px auto;
+  width: 491px;
+  height: 650px;
+  background-color: black;
+  padding: 2px;
+  position: relative;
+}
+
+#container6{
+  margin: 100px auto;
+  width: 400px;
+  height: 400px;
+  background-color: darkgrey;
+  padding: 10px;
+  position: relative;
+}
